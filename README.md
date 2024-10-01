@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi  I’m  **Saadat Sakhi**<br>I’m currently working on **QuoHr**<br>I’m currently learning **Fastify And Nestjs**<br> I’m looking to collaborate on **openSource project**<br> Ask me about **react,javascript,express and node js**<br>How to reach me **sadatabbaassakhi@gmail.com**
+ Hi  I’m  **Saadat Sakhi**<br>I’m currently working on **QuoHr**<br>I’m currently learning **Fastify And Nestjs**<br> I’m looking to collaborate on **openSource project**<br> Ask me about **react,javascript,express and node js**<br>How to reach me **sadatabbaassakhi@gmail.com**
 
 
 # 💻 Tech Stack:
@@ -8,6 +8,12 @@ Hi  I’m  **Saadat Sakhi**<br>I’m currently working on **QuoHr**<br>I’m cur
 ![](https://github-readme-stats.vercel.app/api?username=saadatsakhi&theme=default&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=saadatsakhi&theme=default&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=saadatsakhi&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=saadatsakhi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=saadatsakhi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=saadatsakhi&icon=0&color=0)](https://visitcount.itsvg.in)
